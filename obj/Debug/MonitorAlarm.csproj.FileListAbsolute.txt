@@ -1,0 +1,11 @@
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\bin\Debug\MonitorAlarm.exe
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\bin\Debug\MonitorAlarm.exe.config
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\obj\Debug\MonitorAlarm.Port.resources
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\obj\Debug\MonitorAlarm.Principal.resources
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\obj\Debug\MonitorAlarm.Properties.Resources.resources
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\obj\Debug\MonitorAlarm.csproj.GenerateResource.cache
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\obj\Debug\MonitorAlarm.csproj.CoreCompileInputs.cache
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\obj\Debug\MonitorAlarm.exe
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\obj\Debug\MonitorAlarm.pdb
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\bin\Debug\MonitorAlarm.pdb
+C:\Users\51915\Desktop\Teccart\5eme session\objet conecte\MonitorAlarm\MonitorAlarm\obj\Debug\MonitorAlarm.csproj.AssemblyReference.cache
